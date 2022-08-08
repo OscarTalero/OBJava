@@ -1,2 +1,0 @@
-# OBJava
-Exercises Java OpenBootcamp
