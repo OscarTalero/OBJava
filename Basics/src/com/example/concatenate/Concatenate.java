@@ -15,6 +15,6 @@ public class Concatenate {
             result = result + " " + name;
         }
         return result;
-        
+
     }
 }
